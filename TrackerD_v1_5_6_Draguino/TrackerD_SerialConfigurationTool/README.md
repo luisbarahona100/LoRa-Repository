@@ -57,6 +57,8 @@ También puedes ejecutar:
 ```bat
 run.bat
 ```
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/19346e9b-e38a-4961-b3b5-c189da95eb6d" />
+
 
 ## Dependencia
 
